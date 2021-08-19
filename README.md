@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/me43pb373qa39m38?svg=true)](https://ci.appveyor.com/project/DiRover/webworker)
+[![Build status](https://ci.appveyor.com/api/projects/status/l98efdjipjw7t985?svg=true)](https://ci.appveyor.com/project/DiRover/webworker)
 
-[PAGE Task 11.3 Project Management Dashboard](https://dirover.github.io/ahj-homework-RxJS-11.2/)
+[PAGE Task 12.1 Web Worker](https://dirover.github.io/webworker/)
 
 ### Hasher
 
